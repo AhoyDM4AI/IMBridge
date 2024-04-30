@@ -24,13 +24,13 @@ System Implementation:
 Quick Start:
 
 1. Setup the system environment. It is optional to pull the docker image. (docker pull zcylovelynewlife/ob_env_centos7:v3)
-2. Download and install OceanBase-all-in-one package (Version 4.1.0) from <www.oceanbase.com/softwarecenter>.
+2. Download and install OceanBase-all-in-one package (Version 4.1.0) from www.oceanbase.com/softwarecenter.
 3. Deploy the OceanBase cluster.
 4. Config and run replaceOb.sh shell. (./replaceOb.sh debug/release)
 5. Redeploy the OceanBase cluster.
 6. Create your Python UDF and make prediction!
 
-See more information in <www.github.com/lovelynewlife/oceanbase/wiki> and our commit history records in <www.github.com/watch2bear/oceanbase_PyUdf>.
+See more information in www.github.com/lovelynewlife/oceanbase/wiki and our commit history records in www.github.com/watch2bear/oceanbase_PyUdf .
 
 Welcome to contact us!
 
